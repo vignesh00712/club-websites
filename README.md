@@ -37,6 +37,10 @@ We welcome contributions from the community! If you'd like to contribute to the 
     Push to the branch: git push origin feature-name
     Submit a pull request
 
+WEBSITE:![Screenshot 2024-04-06 163311](https://github.com/vignesh00712/club-websites/assets/139787967/350549aa-d70d-4025-858c-c49ec0b4db8e)
+
+
+
 Issues:
 
 If you encounter any issues or have suggestions for improvements, please feel free to open an issue on GitHub.
